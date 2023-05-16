@@ -38,4 +38,3 @@ jobs:
           artifact-name: EmpowerHelloWorld
           version: 1.0.1
           build-number: ${{ github.run_number }}
-          
